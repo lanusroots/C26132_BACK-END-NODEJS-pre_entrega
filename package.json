@@ -1,0 +1,13 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "CLI para gestión de productos con API FakeStore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "MaxFernandez",
+  "license": "ISC"
+}
